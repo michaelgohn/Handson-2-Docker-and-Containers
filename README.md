@@ -39,6 +39,6 @@ times.\n'.format(count)
 
 8. I built and ran the application and followed the provided link to the running app's browser interface
 
-![Screenshot of Docker Desktop.](Screenshot 2026-02-03 170822.png)
+![Screenshot of Docker Desktop.](Screenshot%202026-02-03%20170822.png)
 
-![Screenshot of Output page.](Screenshot 2026-02-03 171124.png)
+![Screenshot of Output page.](Screenshot%202026-02-03%20171124.png)
