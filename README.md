@@ -1,12 +1,14 @@
 1. I began this assignment by installing Docker on my computer and starting the Docker Desktop app.
 
 2. I then pulled the PostgreSQL image:
-   > docker pull postgres
-I also started the postgres instance and interacted with it
+   ```
+   docker pull postgres
+   ```
+   I also started the postgres instance and interacted with it
 
-3. I then defined my dependencies in requirements.txt
+4. I then defined my dependencies in requirements.txt
 
-4. Then I copied the code from the instructions into my app.py file
+5. Then I copied the code from the instructions into my app.py file
 ```
 import time
 import redis from flask
