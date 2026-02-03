@@ -38,3 +38,7 @@ times.\n'.format(count)
 7. I defined the services in compose.yaml and fixed some formatting errors
 
 8. I built and ran the application and followed the provided link to the running app's browser interface
+
+![Screenshot of Docker Desktop.](Screenshot 2026-02-03 170822.png)
+
+![Screenshot of Output page.](Screenshot 2026-02-03 171124.png)
