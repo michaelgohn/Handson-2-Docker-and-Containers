@@ -2,7 +2,7 @@
 
 2. I then pulled the PostgreSQL image:
    > docker pull postgres
-   I also started the postgres instance and interacted with it
+I also started the postgres instance and interacted with it
 
 3. I then defined my dependencies in requirements.txt
 
